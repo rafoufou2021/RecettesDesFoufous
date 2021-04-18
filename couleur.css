@@ -1,0 +1,89 @@
+@media screen and (max-width: 1280px) {
+    
+}
+
+
+
+
+body{
+        background-color: rgba(255, 38, 0, 0.644);
+        text-align: center;
+        
+    }
+
+ul.créateur  {list-style-type: none;}
+
+#présentation {background-color: rgba(229, 255, 0, 0.575);
+                    width: 1000px;
+                    height: 5000px;
+                text-align: center;
+                align-content: center;
+                margin: auto;}
+
+#actu {background-color: white;
+        width: 400px;
+        position: fixed;
+        top: 10px;
+        left: 20px;
+        border-radius: 50px }
+
+mark {background-color: turquoise;}
+
+
+#tajine {
+    position: absolute;
+    left: 500px;
+
+}
+
+#titretajine { position: absolute;
+     left: 930px;
+    top: 1010px;
+}
+
+#desctajine {position: absolute;
+    right: 550px;
+    }
+
+
+#tiramisu { position: absolute;
+        left: 500px;
+}
+
+#titretiramisu { position: absolute;
+    top: 1870px;
+left: 930px;
+}
+
+#desctiramisu { position: absolute;
+    left: 920px;
+    }
+
+#crepe {position: absolute;
+left: 500px;
+}
+
+#titrecrepe {position: absolute;
+    top: 2300px;
+left: 930px;
+}
+
+#desccrepe {position: absolute;
+    
+left: 930px
+
+}
+
+#yakitori {position: absolute;
+left: 500px;
+
+}
+
+#titreyakitori {position: absolute;
+    left: 930px;
+top: 2920px;
+}
+
+#descyakitori {position: absolute;
+left: 930px;
+}
